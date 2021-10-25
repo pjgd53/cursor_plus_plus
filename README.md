@@ -1,2 +1,2 @@
-# cursor-
+# cursor++
 CURSOR++ Workshop Repository
